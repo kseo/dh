@@ -1,7 +1,9 @@
-# dh
+dh
+==
+
+[![Build Status](https://travis-ci.org/kseo/dh.svg?branch=master)](https://travis-ci.org/kseo/dh)
 
 Diffie-Hellman Key-exchange algorithm in Dart
-
 
 ## Example
 
