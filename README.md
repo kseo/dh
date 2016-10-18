@@ -2,6 +2,7 @@ dh
 ==
 
 [![Build Status](https://travis-ci.org/kseo/dh.svg?branch=master)](https://travis-ci.org/kseo/dh)
+[![GitHub License](https://img.shields.io/badge/license-BSD-blue.svg)](https://raw.githubusercontent.com/kseo/dh/master/LICENSE)
 
 Diffie-Hellman Key-exchange algorithm in Dart
 
