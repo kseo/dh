@@ -1,0 +1,14 @@
+name: dh
+description: Diffie-Hellman Key-exchange algorithm in Dart
+version: 0.1.0
+author: Kwang Yul Seo <kwangyul.seo@gmail.com>
+homepage: https://github.com/kseo/dh
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+#dependencies:
+#  lib_name: any
+
+dev_dependencies:
+  test: '>=0.12.0 <0.13.0'
